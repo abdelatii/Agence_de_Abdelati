@@ -1,0 +1,29 @@
+/* CSS Document */
+body{
+background:#FFCC33;
+}
+.email{
+color:#FFFFFF;
+text-decoration:none;
+
+}
+ .email a:hover{
+color:#FFCC45;
+}
+#email_agence_communication{
+background:#FEA610;
+color:#FDDDA2;
+width:902px;
+height:49px;
+}
+#image_agence_communication{
+margin:10px;
+}
+#presentation_agence_communication{
+background:#FBA30B;
+color:#FDDDA2;
+width:890px;
+padding:6px;
+}
+
+
